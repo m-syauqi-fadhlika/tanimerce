@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fruitpedia"
+        android:title="FruitPedia"
+        android:icon="@drawable/icon_fruitpedia"/>
+
+    <item
+        android:id="@+id/market"
+        android:title="Market"
+        android:icon="@drawable/icon_market"/>
+    <item
+        android:id="@+id/user_profile"
+        android:title="User Profile"
+        android:icon="@drawable/icon_user"/>
+
+    <!-- menu nya bukan kayak preview design tapi buat bottom nav -->
+</menu>

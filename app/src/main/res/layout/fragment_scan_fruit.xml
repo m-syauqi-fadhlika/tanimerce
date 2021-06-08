@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#F8FAF7">
+
+
+    <TextView
+        android:id="@+id/tv_top_heading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:foregroundGravity="top"
+        android:text="Fruit Scanner"
+        android:textAlignment="center"
+        android:textSize="40sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_marginHorizontal="32dp"
+        android:text="Dengan Fruit Scanner kamu dapat mengetahui jenis buah dengan mudah loh. Silahkan ambil Photo atau pilih dari Galeri"
+        android:textAlignment="center"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="30dp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/b_select_from_gal"
+            android:layout_width="300dp"
+            android:layout_height="40dp"
+            android:background="@drawable/layout_bg_3"
+            android:text="Select Image From Galery" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/b_select_from_cam"
+            android:layout_width="300dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="18dp"
+            android:background="@drawable/layout_bg_3"
+            android:text="Capture Photo From Camera" />
+
+    </LinearLayout>
+
+</LinearLayout>

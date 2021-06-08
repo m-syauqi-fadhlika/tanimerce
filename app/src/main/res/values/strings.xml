@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tanimerce</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">home</string>
+    <string name="list">list</string>
+    <string name="scan">scan</string>
+    <string name="contoh_artikel">Mangga  buah yang lezat, bisa dijadikan juicy manis. Mereka banyak dibudidayakan di daerah tropis dan sub tropis. Waktu terbaik untuk menanam pohon mangga adalah di musim panas saat cuaca hangat, karena mereka menyukai banyak sinar matahari .  untuk mulai menanam pohon mangga di dalam rumah dan untuk menanamnya kembali di luar rumah setelah mulai bertunas. Itulah yang akan kita lakukan. Ambil mangga yang sangat matang, dan potong buahnya dari sekam di bagian tengah mangga tanpa menembus kulitnya. Hapus sisa buah dari kulit.
+Potong kulitnya terbuka dengan pisau tajam. Lakukan ini dengan hati-hati, karena Anda tidak ingin merusak benih yang ada di dalamnya.
+Keluarkan benih dan buang sekam. Benih akan berbentuk kacang lima dengan area ringan di atas disebut mata.
+Isi pot tanam dengan pot tanah. Pastikan menggunakan panci dengan lubang drainase.
+Basahi tanah sedikit.
+Buat lubang kecil dan tempatkan benih di dalam lubang dengan mata menghadap ke atas.
+Tutupi benih dengan setengah inci (1,27 cm) tanah. Benih harus tumbuh dalam beberapa minggu.
+Airkan tanaman Anda dengan air suam-suam kuku setiap kali Anda melihat tanah agak kering. Mangga tidak membutuhkan banyak air.
+Kembalikan tanaman di luar rumah jika cukup kuat
+Pohon mangga bibit memiliki sistem akar yang lebih kuat dan tumbuh dengan kuat daripada pohon yang dicangkokkan. Tapi mereka tidak tumbuh sesuai dengan benih, bahkan jika Anda menanam benih mangga yang enak rasanya; Anda akan tahu hanya saat pohon menghasilkan buah.
+
+Pohon mangga adalah tanaman berakar dalam yang bisa menjadi spesimen besar di bentang alam. Mereka hijau dan umumnya diproduksi dari batang bawah yang meningkatkan sifat tahan banting tanaman. Pohon mangga mulai memproduksi buah dalam tiga tahun dan membentuk buah dengan cepat. Pilihlah variasi yang paling sesuai untuk zona Anda. Tanaman ini dapat berkembang di hampir semua tanah namun membutuhkan tanah yang dikeringkan dengan baik di tempat dengan perlindungan dari dingin. Posisikan pohon Anda di tempat yang akan menerima sinar matahari penuh untuk menghasilkan buah terbaik.</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

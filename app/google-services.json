@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "694510871442",
+    "project_id": "bioternity",
+    "storage_bucket": "bioternity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694510871442:android:e9684f38572bafca8d974b",
+        "android_client_info": {
+          "package_name": "com.dicoding.picodiploma.tanimerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694510871442-evvu4qviivaqp0ifispsrlk8j4q4vs2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQVAmpqWdm5XBkP3PmmJ6p7dXBB3vuZMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694510871442-evvu4qviivaqp0ifispsrlk8j4q4vs2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
